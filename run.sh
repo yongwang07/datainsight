@@ -8,4 +8,4 @@
 #gradle build
 #gradle run
 echo $PWD
-java -jar ./build/libs/yongwang-1.0-SNAPSHOT.jar
+java -jar ../build/libs/yongwang-1.0-SNAPSHOT.jar
