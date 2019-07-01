@@ -4,6 +4,7 @@
 #
 # gradlew clean
 # gradlew build
-gradle clean
-gradle build
-gradle run
+#gradle clean
+#gradle build
+#gradle run
+java -jar build/libs/yongwang-1.0-SNAPSHOT.jar
