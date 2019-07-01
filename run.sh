@@ -7,4 +7,4 @@
 #gradle clean
 #gradle build
 #gradle run
-java -jar build/libs/yongwang-1.0-SNAPSHOT.jar
+java -jar ./build/libs/yongwang-1.0-SNAPSHOT.jar
